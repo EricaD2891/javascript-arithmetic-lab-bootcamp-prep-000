@@ -11,7 +11,7 @@ function divide(a,b){
   return a/b
 }
 function inc(n){
-
+var n = parseInt("1")
 }
 function dec(n){
   return
