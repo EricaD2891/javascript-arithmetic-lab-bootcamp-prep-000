@@ -16,3 +16,6 @@ return
 function dec(n){
   return
 }
+function makeInt(n){
+  return 
+}
